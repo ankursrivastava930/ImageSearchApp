@@ -1,2 +1,2 @@
 # ImageSearchApp
-"Image Search App: A lightweight Python application leveraging computer vision to perform reverse image searches. Utilizing popular image recognition libraries, this app allows users to upload an image or provide a URL, and it returns relevant search results based on visual similarities. 
+Create a responsive image search app using JavaScript, HTML, and CSS. Users input queries, and the app fetches and displays relevant images from the Unsplash API, featuring pagination for more results.

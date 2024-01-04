@@ -1,13 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;1,100;1,200&display=swap");
 
 .container {
+  row-gap: 2.5rem;
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
   overflow-x: hidden;
   color: #333; /* Dark text color */
   overflow-x: hidden;
-  background-color: #f7f7f7; /* Light gray background */
+  background-color: #fff9e6; /* Pale yellow background */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -20,7 +21,7 @@
   font-weight: bolder;
   line-height: 1rem;
   color: #4a90e2; /* Dodger Blue */
-  margin: 1rem 0;
+ margin: 2.5rem 0;
 }
 
 #searchForm {
